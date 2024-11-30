@@ -32,3 +32,4 @@ void nStarDiamond(int n) {
 // *****
 //  ***
 //   *
+/
